@@ -1,0 +1,11 @@
+#sort{
+    display: none;
+    background-color: blue;
+    color: white;
+}
+
+#submit{
+    display: inline;
+    background-color: blue;
+    color: white;
+}
